@@ -1,1 +1,3 @@
-# reactjs-starter
+# тест
+
+A simple React application.

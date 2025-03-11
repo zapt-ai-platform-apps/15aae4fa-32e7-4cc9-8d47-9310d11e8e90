@@ -1,7 +1,7 @@
 {
-    "name": "reactjs-vite-tailwind-vercel",
+    "name": "test-app",
     "version": "1.0.0",
-    "description": "ReactJS app with Vite, Tailwind",
+    "description": "тест - React app with Vite, Tailwind",
     "type": "module",
     "scripts": {
         "dev": "vite",
